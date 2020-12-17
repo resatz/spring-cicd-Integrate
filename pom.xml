@@ -44,7 +44,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>spring-cicd-Integrate</finalName>
+		<finalName>spring-cicd-integrate</finalName>
 	</build>
 
 </project>
