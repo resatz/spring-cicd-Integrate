@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>spring-cicd-Integrate</artifactId>
+	<artifactId>spring-cicd-integrate</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-cicd-Integrate</name>
+	<name>spring-cicd-integrate</name>
 	<description>Demo project for spring-cicd-Integrate</description>
 
 	<properties>
